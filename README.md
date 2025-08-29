@@ -42,7 +42,7 @@ Future Enhancements:
 
 
  Links:
-- Google Colab Notebook: [Click Here]([https://colab.research.google.com/drive/1kCU-1rkllCtp8qjkYHemdDXS6HrOXY5c?usp=sharing](https://colab.research.google.com/drive/1kCU-1rkllCtp8qjkYHemdDXS6HrOXY5c?usp=sharing))  
+- Google Colab Notebook: [Click Here](https://colab.research.google.com/drive/1kCU-1rkllCtp8qjkYHemdDXS6HrOXY5c?usp=sharing)  
 - Excel Dashboard: [[Upload file here or provide link](https://1drv.ms/x/c/84fefe525e4ad4f6/ETw0R-WCvptGj-kLPIlE61IBokcKE07FbjWk96JG5rQfqw?e=Lud946)]  
 
 
